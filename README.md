@@ -1,5 +1,7 @@
 # Website to Markdown
 
+https://github.com/user-attachments/assets/190a596e-f082-4457-ab68-53f3cbae8786
+
 ## Install the bookmarklet with Bookmarkleter
 
 Copy this code, [then paste it into Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) and drag the link to your bookmarks bar.
@@ -351,6 +353,7 @@ The bookmarklet is a tool that lets you interactively select and label parts of 
 
 ## Known Bugs
 - CSS needs work
+- Only tested in Safari and Chrome so far
 
 
 ## License
