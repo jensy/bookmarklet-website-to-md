@@ -2,7 +2,7 @@
 
 ## Install the bookmarklet with Bookmarkleter
 
-[Paste this code, then drag the link to your bookmarks bar](https://chriszarate.github.io/bookmarkleter/)
+Copy this code, [then paste it into Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) and drag the link to your bookmarks bar.
 
 ```js
     (function(){
